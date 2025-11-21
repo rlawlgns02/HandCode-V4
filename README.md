@@ -4,7 +4,7 @@
 
 ## 📋 프로젝트 소개
 
-HandCode V3.0은 AI 기반 한국 수어 인식 및 실시간 통역 시스템입니다. MediaPipe와 TensorFlow.js를 활용하여 웹캠을 통해 수어를 인식하고 텍스트로 변환합니다.
+HandCode V4는 AI 기반 한국 수어 인식 및 실시간 통역 시스템입니다. MediaPipe와 TensorFlow.js를 활용하여 웹캠을 통해 수어를 인식하고 텍스트로 변환합니다.
 
 ## ✨ 주요 기능
 
@@ -43,7 +43,7 @@ HandCode V3.0은 AI 기반 한국 수어 인식 및 실시간 통역 시스템�
 
 ```bash
 # 저장소 클론
-[git clone https://github.com/YOUR_USERNAME/HandCode-V3.0.git](https://github.com/rlawlgns02/HandCode-V4.git)
+[git clone https://github.com/rlawlgns02/HandCode-V4.git](https://github.com/rlawlgns02/HandCode-V4.git)
 cd HandCode-V4
 
 # 필요한 패키지 설치
@@ -142,5 +142,6 @@ Team HandCode | 김지훈 Kim Ji Hoon, 이민용 Lee Min Yong, 조우석Cho Ou S
 ---
 
 **Note**: 이 프로젝트는 교육 및 연구 목적으로 개발되었습니다.
+
 
 
