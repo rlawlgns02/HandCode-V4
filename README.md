@@ -43,7 +43,7 @@ HandCode V4는 AI 기반 한국 수어 인식 및 실시간 통역 시스템입�
 
 ```bash
 # 저장소 클론
-[git clone https://github.com/rlawlgns02/HandCode-V4.git](https://github.com/rlawlgns02/HandCode-V4.git)
+git clone https://github.com/rlawlgns02/HandCode-V4.git
 cd HandCode-V4
 
 # 필요한 패키지 설치
@@ -142,6 +142,7 @@ Team HandCode | 김지훈 Kim Ji Hoon, 이민용 Lee Min Yong, 조우석Cho Ou S
 ---
 
 **Note**: 이 프로젝트는 교육 및 연구 목적으로 개발되었습니다.
+
 
 
 
