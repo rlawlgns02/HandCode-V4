@@ -128,21 +128,9 @@ HandCode-V3.0/
 3. "통역 시작" 클릭
 4. 수어 제스처 수행
 
-## 🤝 기여하기
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 라이선스
-
-이 프로젝트는 MIT 라이선스를 따릅니다.
-
 ## 👨‍💻 개발자
 
-HandCode Team
+Team HandCode | 김지훈 Kim Ji Hoon, 이민용 Lee Min Yong, 조우석Cho Ou Seok
 
 ## 🙏 감사의 말
 
@@ -153,3 +141,4 @@ HandCode Team
 ---
 
 **Note**: 이 프로젝트는 교육 및 연구 목적으로 개발되었습니다.
+
